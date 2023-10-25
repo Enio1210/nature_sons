@@ -4,8 +4,8 @@ Nature sons( sons de ambiencia em geral )foi um aplicativo que desenvolvi para a
 
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-<img src="img1.png" width="260">&emsp;<img src="/result/img2.png" width="260">&emsp;<img src="/result/img3.png" width="260";<img src="/result/img4.png" width="260">
+<!-- You can add ore screenshots here if you like -->
+<img src="/app/result/img1.png" width="260">&emsp;<img src="/app/result/img2.png" width="260">&emsp;<img src="/app/result/img3.png" width="260">&emsp;;<img src="/app/result/img4.png" width="260">&emsp;>
 
 ## Tecnologias
 * Kotlin
