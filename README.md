@@ -1,5 +1,5 @@
 # nature_sons# Nature sons
-Nature sons( sons de ambiencia em geral )foi um aplicativo que desenvolvi para alarega meus conhecimentos nos codigos kotlin, 100% funcional. Muito desafiado , mais cheguei ao resultado esperado.
+Nature sons( sons de ambiencia em geral )foi um aplicativo que desenvolvi para agregar em meus conhecimentos nos codigos kotlin, 100% funcional. Muito desafiador , mais cheguei ao resultado esperado.
 
 
 
